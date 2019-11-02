@@ -1,7 +1,7 @@
 # Case 2
-# Developers:   Nikita Beushev ()
-#               Alexandra Kozadeeva ()
-#               Anzhelika Kurepova ()
+# Developers:   Nikita Beushev (65)
+#               Alexandra Kozadeeva (70)
+#               Anzhelika Kurepova (55)
 
 import pandas as pd
 import localization as lc
